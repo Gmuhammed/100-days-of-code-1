@@ -1,6 +1,6 @@
 # 100 Days Of Code - Log
 
-### Day 1: june 25, 2017 (Example 1)
+### Day 1: june 25, 2017 
 **Thoughts:**  i am on nitro mode, working through responsive design with bootstrap on freecodecamp
 #i am aware its not about speed but i understand the details too as i run through.
 #wonderfulsallah2017 #amazingfirstday
