@@ -13,14 +13,15 @@
 
 
 
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
+### Day 2: june 26, 2017 
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
 
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Today's Progress**: worked on more details of bootstarp design @w3schools
+#worked on bootstrap class related to collapsible,jumbotron, buttons,picture
 
-**Link(s) to work**: [Calculator App](http://www.example.com)
+**Thoughts**: I still have long way to go but slow and steady win the race.
+
+
 
 
 ### Day 1: June 27, Monday
